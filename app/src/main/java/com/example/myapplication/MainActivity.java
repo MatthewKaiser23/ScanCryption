@@ -1,6 +1,4 @@
 package com.example.myapplication;
-package com.example.scancryption;
-
 
 import androidx.activity.result.ActivityResult;
 import androidx.activity.result.ActivityResultCallback;
