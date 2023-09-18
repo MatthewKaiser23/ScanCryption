@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\CS738\MyApplication\sdk\.cxx\Debug\e4e1te5d\x86'
+ninja: no work to do.

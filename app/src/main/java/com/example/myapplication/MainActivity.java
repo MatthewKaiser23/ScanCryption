@@ -264,6 +264,7 @@ public class MainActivity extends AppCompatActivity{
                 }finally {
                     if(encodedImage.exists()){
                         encodedImage.delete();
+
                     }
                 }
                 progressDialog.dismiss();
