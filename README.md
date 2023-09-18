@@ -81,8 +81,8 @@ If you encounter any issues during installation or while running the app, consid
 
 These Steps are:
 
-1. Capture or select an image.
-2. decrypt image.
+1. A button to capture or select an image.
+2. A button to decrypt the selected image.
 
 ## User Interface Overview:
 
