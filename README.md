@@ -86,17 +86,17 @@ These Steps are:
 
 ## User Interface Overview:
 
-[User Interface](https://github.com/MatthewKaiser23/ScanCryption/assets/91264497/6f3ea836-76f1-43da-9071-d4293e9d57ef)
+[User Interface](https://github.com/MatthewKaiser23/ScanCryption/assets/91264497/c4195cc9-b24d-42fb-b069-619a8aec3641)
 
 ## Basic Usage
 
-- [Encrypted Text](https://github.com/MatthewKaiser23/ScanCryption/assets/91264497/8eac6c46-0ee9-4184-bb69-9d66ae59d947)
+- [Encrypted Text](https://github.com/MatthewKaiser23/ScanCryption/assets/91264497/828d01e1-f330-4ca3-b696-cc7ec1917dc7)
 
-- ![Demo Video 1](https://github.com/MatthewKaiser23/ScanCryption/assets/91264497/c5bc9045-3385-4d50-a794-198ce8e8c3df)
+- ![Demo Video 1](https://github.com/MatthewKaiser23/ScanCryption/assets/91264497/4fa72081-a0b8-45de-8597-0d1dd111dad3)
 
-- ![Demo Video 2](https://github.com/MatthewKaiser23/ScanCryption/assets/91264497/81d8a279-1c2b-4208-a96c-a3cbd4bb15a6)
+- ![Demo Video 2](https://github.com/MatthewKaiser23/ScanCryption/assets/91264497/d5b989d9-d117-46ba-a5c0-0a0df4345d2b)
 
-- ![Demo Video 3](https://github.com/MatthewKaiser23/ScanCryption/assets/91264497/f1971fb4-1ebb-4e6f-b0c0-0f860cc24796)
+- ![Demo Video 3](https://github.com/MatthewKaiser23/ScanCryption/assets/91264497/5413d8b8-df6a-4952-967c-4362b4753116)
 
 ## External Resources
 
