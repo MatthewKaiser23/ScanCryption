@@ -1,7 +1,5 @@
 # ScanCryption
 
-[this is the link to my github repository](https://github.com/MatthewKaiser23/ScanCryption)
-
 ## This is an image-to-text Android app created using Android Studio
 
 ## Description
