@@ -110,3 +110,6 @@ Please note that I have provided my API key for all to use. Make sure to use you
 
 ## APK Download
 - [APK](https://drive.google.com/drive/folders/18iAKbUKUkDDCuYtDJRSkTMnA4p4sNfKo?usp=drive_link)
+
+## Cracked Cipher Download
+- [Cracked Cipher](https://drive.google.com/drive/folders/1wRwQe6eyvMDc7Cmf2SzHtiQ0itT1K2AD?usp=drive_link)
