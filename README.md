@@ -107,3 +107,6 @@ This section is to acknowledge and thank the following external resources that i
 ## Extra points
 
 Please note that I have provided my API key for all to use. Make sure to use your own, which can be found at [api-ninjas](https://api-ninjas.com)
+
+## APK Download
+- [APK](https://drive.google.com/drive/folders/18iAKbUKUkDDCuYtDJRSkTMnA4p4sNfKo?usp=drive_link)
